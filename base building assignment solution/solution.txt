@@ -1,0 +1,21 @@
+Base Building
+Assignment solutions
+
+Ans1. An Internet is a network of computer networks. These computers connected to each other can transfer and receive data to other nodes. There are different modes of how 
+you can transfer Internet and these modes can be wireless mode as well as wired mode. The wireless mode includes Wi-fi and the wired mode includes the Ethernet cable etc. 
+The Internet is required to browse websites on web browsers to get data from the server as well. A request is made to the server through the Internet after which it gets the 
+response.
+
+Ans2. A web browser is an application software developed to browse web pages present in the Internet. A web browser is present at the client side and sends the request to 
+the server side In order to fetch the files. For example chrome, Firefox, brave etc. They are used to fetch the web pages from the World Wide Web also known as WWW.
+
+Ans3. A browser engine software used to render the html documents from the server to the clients These web engines have the rendering features It connects all the other 
+document file with html documents of the web page and together create visual effects on the screen of the user. Browning engine, rendering engine and javascript engine work 
+together to load a website from the server. Examples of browsing engines are gecko, webkit etc.
+
+Ans4.  A static website contains only html file and CSS file together. It does not have any functionalities that the dynamic nature of this website is missing. Javascript is 
+also absent in these kinds of websites. This website does not perform those oppression which are performed using the help of a programming language. Static websites are 
+helpful in creating landing page, portfolios etc.
+
+Ans5. A dynamic website is formed after building a static website. These websites contain html css as well as javascript file in order to add functionalities in it. As the 
+name suggests these websites have a dynamic nature and have the capability to render data from different websites as well.
